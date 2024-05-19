@@ -1,0 +1,12 @@
+{
+  "name": "es6-primer",
+  "version": "0.0.1",
+  "description": "Classwork on EcmaScript 6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paula Irabor",
+  "license": "MIT",
+  "type" : "module"
+}
