@@ -1,6 +1,6 @@
 //console.log("Starting ES6 and above");
 import log, {
-     appName as am,33
+     appName as am,
      dummyFunction as df,
      genericFunction as gf, genericFunction2 as gf2, genericFunction3 as gf3,
      multiplier, multiplier2,
